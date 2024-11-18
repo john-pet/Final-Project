@@ -1,0 +1,33 @@
+D:\School Files\College Files\2nd Year\CPE 261\Project Proposal Modified\FieldCompass_AcademicFieldRecommendationSystem\obj\Debug\net8.0\FieldCompass_AcademicFieldRecommendationSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\School Files\College Files\2nd Year\CPE 261\Project Proposal Modified\FieldCompass_AcademicFieldRecommendationSystem\obj\Debug\net8.0\FieldCompass_AcademicFieldRecommendationSystem.AssemblyInfoInputs.cache
+D:\School Files\College Files\2nd Year\CPE 261\Project Proposal Modified\FieldCompass_AcademicFieldRecommendationSystem\obj\Debug\net8.0\FieldCompass_AcademicFieldRecommendationSystem.AssemblyInfo.cs
+D:\School Files\College Files\2nd Year\CPE 261\Project Proposal Modified\FieldCompass_AcademicFieldRecommendationSystem\obj\Debug\net8.0\FieldCompass_AcademicFieldRecommendationSystem.csproj.CoreCompileInputs.cache
+D:\School Files\College Files\2nd Year\CPE 261\Project Proposal Modified\FieldCompass_AcademicFieldRecommendationSystem\bin\Debug\net8.0\FieldCompass_AcademicFieldRecommendationSystem.exe
+D:\School Files\College Files\2nd Year\CPE 261\Project Proposal Modified\FieldCompass_AcademicFieldRecommendationSystem\bin\Debug\net8.0\FieldCompass_AcademicFieldRecommendationSystem.deps.json
+D:\School Files\College Files\2nd Year\CPE 261\Project Proposal Modified\FieldCompass_AcademicFieldRecommendationSystem\bin\Debug\net8.0\FieldCompass_AcademicFieldRecommendationSystem.runtimeconfig.json
+D:\School Files\College Files\2nd Year\CPE 261\Project Proposal Modified\FieldCompass_AcademicFieldRecommendationSystem\bin\Debug\net8.0\FieldCompass_AcademicFieldRecommendationSystem.dll
+D:\School Files\College Files\2nd Year\CPE 261\Project Proposal Modified\FieldCompass_AcademicFieldRecommendationSystem\bin\Debug\net8.0\FieldCompass_AcademicFieldRecommendationSystem.pdb
+D:\School Files\College Files\2nd Year\CPE 261\Project Proposal Modified\FieldCompass_AcademicFieldRecommendationSystem\obj\Debug\net8.0\FieldCompass_AcademicFieldRecommendationSystem.dll
+D:\School Files\College Files\2nd Year\CPE 261\Project Proposal Modified\FieldCompass_AcademicFieldRecommendationSystem\obj\Debug\net8.0\refint\FieldCompass_AcademicFieldRecommendationSystem.dll
+D:\School Files\College Files\2nd Year\CPE 261\Project Proposal Modified\FieldCompass_AcademicFieldRecommendationSystem\obj\Debug\net8.0\FieldCompass_AcademicFieldRecommendationSystem.pdb
+D:\School Files\College Files\2nd Year\CPE 261\Project Proposal Modified\FieldCompass_AcademicFieldRecommendationSystem\obj\Debug\net8.0\FieldCompass_AcademicFieldRecommendationSystem.genruntimeconfig.cache
+D:\School Files\College Files\2nd Year\CPE 261\Project Proposal Modified\FieldCompass_AcademicFieldRecommendationSystem\obj\Debug\net8.0\ref\FieldCompass_AcademicFieldRecommendationSystem.dll
+C:\Users\Dell\Source\Repos\FieldRecommend\Project Proposal Modified\FieldCompass_AcademicFieldRecommendationSystem\bin\Debug\net8.0\FieldCompass_AcademicFieldRecommendationSystem.exe
+C:\Users\Dell\Source\Repos\FieldRecommend\Project Proposal Modified\FieldCompass_AcademicFieldRecommendationSystem\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Dell\Source\Repos\FieldRecommend\Project Proposal Modified\FieldCompass_AcademicFieldRecommendationSystem\bin\Debug\net8.0\Spectre.Console.dll
+C:\Users\Dell\Source\Repos\FieldRecommend\Project Proposal Modified\FieldCompass_AcademicFieldRecommendationSystem\obj\Debug\net8.0\FieldCompass_AcademicFieldRecommendationSystem.csproj.AssemblyReference.cache
+C:\Users\Dell\Source\Repos\FieldRecommend\Project Proposal Modified\FieldCompass_AcademicFieldRecommendationSystem\obj\Debug\net8.0\FieldCompass_AcademicFieldRecommendationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Source\Repos\FieldRecommend\Project Proposal Modified\FieldCompass_AcademicFieldRecommendationSystem\obj\Debug\net8.0\FieldCompass_AcademicFieldRecommendationSystem.AssemblyInfoInputs.cache
+C:\Users\Dell\Source\Repos\FieldRecommend\Project Proposal Modified\FieldCompass_AcademicFieldRecommendationSystem\obj\Debug\net8.0\FieldCompass_AcademicFieldRecommendationSystem.AssemblyInfo.cs
+C:\Users\Dell\Source\Repos\FieldRecommend\Project Proposal Modified\FieldCompass_AcademicFieldRecommendationSystem\obj\Debug\net8.0\FieldCompass_AcademicFieldRecommendationSystem.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Source\Repos\FieldRecommend\Project Proposal Modified\FieldCompass_AcademicFieldRecommendationSystem\obj\Debug\net8.0\FieldCompass_AcademicFieldRecommendationSystem.sourcelink.json
+C:\Users\Dell\Source\Repos\FieldRecommend\Project Proposal Modified\FieldCompass_AcademicFieldRecommendationSystem\obj\Debug\net8.0\FieldCom.1ECDC178.Up2Date
+C:\Users\Dell\Source\Repos\FieldRecommend\Project Proposal Modified\FieldCompass_AcademicFieldRecommendationSystem\obj\Debug\net8.0\FieldCompass_AcademicFieldRecommendationSystem.dll
+C:\Users\Dell\Source\Repos\FieldRecommend\Project Proposal Modified\FieldCompass_AcademicFieldRecommendationSystem\obj\Debug\net8.0\refint\FieldCompass_AcademicFieldRecommendationSystem.dll
+C:\Users\Dell\Source\Repos\FieldRecommend\Project Proposal Modified\FieldCompass_AcademicFieldRecommendationSystem\obj\Debug\net8.0\FieldCompass_AcademicFieldRecommendationSystem.pdb
+C:\Users\Dell\Source\Repos\FieldRecommend\Project Proposal Modified\FieldCompass_AcademicFieldRecommendationSystem\bin\Debug\net8.0\FieldCompass_AcademicFieldRecommendationSystem.deps.json
+C:\Users\Dell\Source\Repos\FieldRecommend\Project Proposal Modified\FieldCompass_AcademicFieldRecommendationSystem\bin\Debug\net8.0\FieldCompass_AcademicFieldRecommendationSystem.runtimeconfig.json
+C:\Users\Dell\Source\Repos\FieldRecommend\Project Proposal Modified\FieldCompass_AcademicFieldRecommendationSystem\bin\Debug\net8.0\FieldCompass_AcademicFieldRecommendationSystem.dll
+C:\Users\Dell\Source\Repos\FieldRecommend\Project Proposal Modified\FieldCompass_AcademicFieldRecommendationSystem\bin\Debug\net8.0\FieldCompass_AcademicFieldRecommendationSystem.pdb
+C:\Users\Dell\Source\Repos\FieldRecommend\Project Proposal Modified\FieldCompass_AcademicFieldRecommendationSystem\obj\Debug\net8.0\FieldCompass_AcademicFieldRecommendationSystem.genruntimeconfig.cache
+C:\Users\Dell\Source\Repos\FieldRecommend\Project Proposal Modified\FieldCompass_AcademicFieldRecommendationSystem\obj\Debug\net8.0\ref\FieldCompass_AcademicFieldRecommendationSystem.dll

@@ -1,0 +1,145 @@
+[
+	{
+		"Name": "Engineering and Technology",
+    "FieldDetails": "Engineering and Technology is an academic field focused on the design and application of technologies to solve practical problems. It includes disciplines like civil, mechanical, electrical, and software engineering. Students learn to use scientific principles and mathematical techniques to develop innovative solutions that enhance efficiency and functionality. Emphasizing critical thinking and hands-on experience, this field prepares graduates to tackle challenges in sustainability, infrastructure, and technological advancement, playing a key role in driving future innovations.",
+                "CareerPaths": "Civil Engineer, Mechanical Engineer, Electrical Engineer, Software Developer, Data Analyst, Robotics Engineer, Project Manager, Quality Control Engineer, Aerospace Engineer, Network Administrator.",
+                "InterestsOptionsOne": [1, 2, 3, 4],
+                "InterestsOptionsTwo": [1, 2, 3, 27],
+                "PassionsOptionsOne": [1, 2, 3, 4],
+                "SkillsAndStrengthsOptionsOne": [1, 2, 3, 11, 12],
+                "SkillsAndStrengthsOptionsTwo": [1, 2, 3],
+                "SkillsAndStrengthsOptionsThree": [1, 2, 3]
+	},
+  {
+    "Name": "Health and Medical Sciences",
+    "FieldDetails": "Health and Medical Sciences is an academic field dedicated to the study of health, disease, and healthcare practices. It encompasses disciplines such as medicine, nursing, pharmacy, and public health. Students learn about the biological, psychological, and social factors affecting health and gain skills in diagnosis, treatment, and patient care. This field emphasizes research and evidence-based practices to improve health outcomes, promote wellness, and address health disparities, preparing graduates for diverse roles in healthcare and medical research.",
+                "CareerPaths": "Physician, Nurse, Pharmacist, Medical Researcher, Public Health Specialist, Physical Therapist, Laboratory Technician, Nutritionist, Health Educator, Paramedic",
+                "InterestsOptionsOne": [ 4, 5, 6, 7 ],
+                "InterestsOptionsTwo": [ 4, 5, 6 ],
+                "PassionsOptionsOne": [ 5, 6, 7, 12, 19 ],
+                "SkillsAndStrengthsOptionsOne": [ 1, 2, 4, 12 ],
+                "SkillsAndStrengthsOptionsTwo": [ 1, 5, 6 ],
+                "SkillsAndStrengthsOptionsThree": [ 2, 5, 6 ]
+  },
+  {
+    "Name": "Natural and Physical Sciences",
+    "FieldDetails": "Natural and Physical Sciences is an academic field focused on understanding the natural world through observation, experimentation, and analysis. It includes disciplines such as physics, chemistry, biology, and earth sciences. Students explore fundamental concepts like matter, energy, and biological processes, developing critical thinking and problem-solving skills. This field emphasizes the scientific method and empirical research, preparing graduates for careers in research, education, environmental science, and various applied sciences.",
+                "CareerPaths": "Research Scientist, Environmental Consultant, Geologist, Biochemist, Meteorologist, Laboratory Technician, Wildlife Biologist, Quality Assurance Specialist, Forensic Scientist, Physics Teacher",
+                "InterestsOptionsOne": [ 2, 4, 5, 8, 17 ],
+                "InterestsOptionsTwo": [ 7, 8, 9 ],
+                "PassionsOptionsOne": [ 7, 8, 9 ],
+                "SkillsAndStrengthsOptionsOne": [ 2, 5, 11, 12 ],
+                "SkillsAndStrengthsOptionsTwo": [ 1, 2, 5 ],
+                "SkillsAndStrengthsOptionsThree": [ 1, 2, 6 ]
+  },
+  {
+    "Name": "Business and Management",
+    "FieldDetails": "Business and Management is an academic field that examines the principles and practices of managing organizations and understanding market dynamics. It encompasses areas such as finance, marketing, human resources, and operations management. Students learn about strategic planning, decision-making, and leadership skills necessary for effective management. This field prepares graduates for careers in diverse sectors, including corporate, entrepreneurial, and nonprofit environments, emphasizing analytical thinking, ethical practices, and teamwork.",
+                "CareerPaths": "Business Analyst, Marketing Manager, Financial Advisor, Human Resources Specialist, Sales Manager, Operations Manager, Entrepreneur, Investment Banker, Management Consultant, Project Coordinator",
+                "InterestsOptionsOne": [ 1, 9, 10, 11 ],
+                "InterestsOptionsTwo": [ 10, 11, 12, 13 ],
+                "PassionsOptionsOne": [ 10, 11, 19 ],
+                "SkillsAndStrengthsOptionsOne": [ 1, 4, 6 ],
+                "SkillsAndStrengthsOptionsTwo": [ 4, 6 ],
+                "SkillsAndStrengthsOptionsThree": [ 1, 4, 7 ]
+  },
+  {
+    "Name": "Social Sciences",
+    "FieldDetails": "Social Sciences is an academic field that explores human behavior, social structures, and cultural dynamics. It encompasses disciplines such as sociology, psychology, anthropology, political science, and economics. Students study how individuals and groups interact within societies, examining issues like power, identity, and social change. This field emphasizes critical thinking and research skills, preparing graduates for careers in education, public policy, social work, and various roles that require an understanding of societal challenges and human relationships.",
+                "CareerPaths": "Sociologist, Psychologist, Anthropologist, Economist, Political Analyst, Social Worker, Urban Planner, Policy Advisor, Human Rights Advocate, Community Organizer",
+                "InterestsOptionsOne": [ 6, 9, 12, 13 ],
+                "InterestsOptionsTwo": [ 4, 12, 14, 15 ],
+                "PassionsOptionsOne": [ 5, 15, 19 ],
+                "SkillsAndStrengthsOptionsOne": [ 1, 4, 7 ],
+                "SkillsAndStrengthsOptionsTwo": [ 4, 6 ],
+                "SkillsAndStrengthsOptionsThree": [ 1, 6, 7 ]
+  },
+  {
+    "Name": "Arts and Humanities",
+    "FieldDetails": "Arts and Humanities is an academic field that focuses on the study of human culture, creativity, and expression. It encompasses disciplines such as literature, history, philosophy, visual arts, music, and performing arts. This field encourages critical analysis, interpretation, and appreciation of artistic works and cultural contexts. Students develop skills in communication, critical thinking, and creativity, preparing for careers in education, media, cultural management, and various roles that require an understanding of human experience and societal values.",
+                "CareerPaths": "Writer, Historian, Artist, Curator, Musician, Actor, Museum Director, Graphic Designer, Art Teacher, Cultural Consultant",
+                "InterestsOptionsOne": [ 13, 14, 15, 16 ],
+                "InterestsOptionsTwo": [ 16, 17, 18, 19 ],
+                "PassionsOptionsOne": [ 14, 15, 16 ],
+                "SkillsAndStrengthsOptionsOne": [ 3, 4, 8 ],
+                "SkillsAndStrengthsOptionsTwo": [ 2, 3 ],
+                "SkillsAndStrengthsOptionsThree": [ 7, 8 ]
+  },
+  {
+    "Name": "Education",
+    "FieldDetails": "Education is an academic field dedicated to the study and practice of teaching and learning processes. It encompasses various aspects, including pedagogy, curriculum development, educational psychology, and assessment methods. This field aims to equip individuals with the knowledge and skills necessary to educate others effectively, whether in traditional classrooms, online settings, or community environments. Graduates often pursue careers as teachers, administrators, counselors, and educational researchers, contributing to the development of effective learning strategies and policies that enhance educational outcomes for diverse populations.",
+                "CareerPaths": "Teacher, School Administrator, Educational Consultant, Curriculum Developer, Education Policy Analyst, Academic Advisor, Instructional Coordinator, Special Education Specialist, Training and Development Manager",
+                "InterestsOptionsOne": [ 1, 6, 14, 17 ],
+                "InterestsOptionsTwo": [ 4, 14, 20 ],
+                "PassionsOptionsOne": [ 5, 12, 19 ],
+                "SkillsAndStrengthsOptionsOne": [ 4, 6, 7 ],
+                "SkillsAndStrengthsOptionsTwo": [ 1, 4, 6 ],
+                "SkillsAndStrengthsOptionsThree": [ 1, 9 ]
+  },
+  {
+    "Name": "Law and Legal Studies",
+    "FieldDetails": "Law and Legal Studies is an academic field that explores the principles, systems, and practices of law and justice. It covers various aspects of legal theory, constitutional law, criminal law, civil rights, and international law, among others. This field examines the role of law in society, the legal processes involved in resolving disputes, and the ethical implications of legal decisions. Graduates often pursue careers as lawyers, legal consultants, judges, or in various roles within governmental and non-governmental organizations, contributing to the development and enforcement of legal standards and practices.",
+                "CareerPaths": "Lawyer, Judge, Legal Consultant, Paralegal, Compliance Officer, Public Prosecutor, Legal Analyst, Corporate Counsel, Human Rights Advocate, Law Clerk",
+                "InterestsOptionsOne": [ 13, 15, 18, 19 ],
+                "InterestsOptionsTwo": [ 4, 21, 22 ],
+                "PassionsOptionsOne": [ 5, 12, 13 ],
+                "SkillsAndStrengthsOptionsOne": [ 1, 4, 9 ],
+                "SkillsAndStrengthsOptionsTwo": [ 1, 4, 6 ],
+                "SkillsAndStrengthsOptionsThree": [ 1, 4 ]
+  },
+  {
+    "Name": "Communication and Media",
+    "FieldDetails": "Communication and Media is an academic field focused on the study of how information is created, shared, and consumed across various platforms. It encompasses disciplines such as journalism, public relations, advertising, digital media, and interpersonal communication. This field analyzes the impact of media on society, culture, and individual behavior, exploring topics like media ethics, audience engagement, and the effects of technology on communication. Graduates often pursue careers in media production, marketing, communication strategy, and related areas, playing a vital role in shaping public discourse and media representation.",
+                "CareerPaths": "Journalist, Public Relations Specialist, Content Creator, Media Planner, Social Media Manager, Copywriter, TV/Radio Producer, News Anchor, Advertising Executive, Film Director",
+                "InterestsOptionsOne": [ 6, 12, 14, 16 ],
+                "InterestsOptionsTwo": [ 19, 23, 24 ],
+                "PassionsOptionsOne": [ 8, 13, 15, 16 ],
+                "SkillsAndStrengthsOptionsOne": [ 3, 4, 10 ],
+                "SkillsAndStrengthsOptionsTwo": [ 3, 4, 6 ],
+                "SkillsAndStrengthsOptionsThree": [ 7, 8 ]
+  },
+  {
+    "Name": "Agriculture and Environmental Studies",
+    "FieldDetails": "Agriculture and Environmental Studies is an academic field that examines the relationships between agricultural practices and environmental sustainability. It focuses on topics such as crop production, soil health, pest management, sustainable farming methods, and the impact of agriculture on ecosystems. This field also addresses issues like food security, land use, and conservation efforts, promoting practices that enhance agricultural productivity while preserving natural resources. Graduates often pursue careers in farming, agricultural technology, environmental policy, and research, contributing to sustainable development and resource management.",
+                "CareerPaths": "Agronomist, Environmental Scientist, Farm Manager, Conservationist, Agricultural Engineer, Soil Scientist, Climate Change Analyst, Sustainability Consultant, Food Safety Inspector, Horticulturist",
+                "InterestsOptionsOne": [ 4, 5, 8, 20 ],
+                "InterestsOptionsTwo": [ 4, 7, 25 ],
+                "PassionsOptionsOne": [ 8, 13, 15 ],
+                "SkillsAndStrengthsOptionsOne": [ 1, 2, 5 ],
+                "SkillsAndStrengthsOptionsTwo": [ 1, 2, 3 ],
+                "SkillsAndStrengthsOptionsThree": [ 2, 3, 6 ]
+  },
+  {
+    "Name": "Architecture and Design",
+    "FieldDetails": "Architecture and Design is an academic field that explores the principles and practices of creating functional and aesthetically pleasing spaces and structures. It encompasses various disciplines, including architectural design, urban planning, interior design, landscape architecture, and industrial design. Students learn about design theory, construction techniques, materials, and environmental considerations, combining creativity with technical knowledge. Graduates often work in architecture firms, design studios, urban planning agencies, or as independent consultants, contributing to the development of buildings, public spaces, and environments that enhance quality of life and reflect cultural values.",
+                "CareerPaths": "Architect, Interior Designer, Urban Planner, Landscape Architect, Industrial Designer, Project Manager, Construction Manager, Design Consultant, Draftsperson, Building Inspector",
+                "InterestsOptionsOne": [ 1, 2, 13, 16 ],
+                "InterestsOptionsTwo": [ 1, 16 ],
+                "PassionsOptionsOne": [ 1, 4, 14, 19 ],
+                "SkillsAndStrengthsOptionsOne": [ 1, 2, 3, 12 ],
+                "SkillsAndStrengthsOptionsTwo": [ 1, 2, 3 ],
+                "SkillsAndStrengthsOptionsThree": [ 1, 6, 8 ]
+  },
+  {
+    "Name": "Mathematics and Statistics",
+    "FieldDetails": "Mathematics and Statistics is an academic field focused on the study of numbers, quantities, shapes, and patterns, along with the collection, analysis, interpretation, and presentation of data. It encompasses various areas such as pure mathematics, applied mathematics, statistical theory, and data analysis. Students learn mathematical concepts, problem-solving techniques, and statistical methods to analyze and interpret real-world phenomena. Graduates often pursue careers in education, research, finance, data science, engineering, and various industries, applying their skills to solve complex problems and inform decision-making processes.",
+                "CareerPaths": "Data Scientist, Statistician, Actuary, Financial Analyst, Operations Research Analyst, Mathematics Professor, Cryptographer, Market Research Analyst, Biostatistician, Quantitative Analyst",
+                "InterestsOptionsOne": [ 1, 3, 21, 22 ],
+                "InterestsOptionsTwo": [ 27, 28 ],
+                "PassionsOptionsOne": [ 7, 18, 19 ],
+                "SkillsAndStrengthsOptionsOne": [ 1, 11, 12 ],
+                "SkillsAndStrengthsOptionsTwo": [ 1, 3, 5 ],
+                "SkillsAndStrengthsOptionsThree": [ 1, 7, 10 ]
+  },
+  {
+    "Name": "Aviation and Maritime",
+    "FieldDetails": "Aviation and Maritime is an academic field dedicated to the study of air and sea transportation systems. It encompasses the principles of flight, navigation, aircraft and vessel operation, safety regulations, logistics, and management. Students gain knowledge in aviation technology, maritime law, navigation techniques, and environmental considerations. Graduates often pursue careers in piloting, air traffic control, maritime operations, logistics, and transportation management, playing essential roles in the efficient movement of people and goods across air and sea routes.",
+    "CareerPaths": "Pilot, Air Traffic Controller, Aviation Safety Inspector, Marine Engineer, Ship Captain, Logistics Manager, Airport Operations Manager, Maritime Lawyer, Navigation Officer, Fleet Manager",
+    "InterestsOptionsOne": [ 1, 2, 23 ],
+    "InterestsOptionsTwo": [ 1, 3, 7 ],
+    "PassionsOptionsOne": [ 3, 8, 20 ],
+    "SkillsAndStrengthsOptionsOne": [ 1, 2, 10 ],
+    "SkillsAndStrengthsOptionsTwo": [ 1, 2, 4 ],
+    "SkillsAndStrengthsOptionsThree": [ 3, 4, 6 ]
+  }
+]

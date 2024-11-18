@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "FieldCompass_AcademicFieldRecommendationSystem": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

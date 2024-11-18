@@ -1,0 +1,3 @@
+[cyan]1[/] - Mathematics
+[cyan]2[/] - Physics
+[cyan]3[/] - Computer Education

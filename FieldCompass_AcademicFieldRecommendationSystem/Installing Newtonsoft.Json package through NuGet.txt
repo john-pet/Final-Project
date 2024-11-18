@@ -1,0 +1,17 @@
+Open NuGet Package Manager:
+
+In Visual Studio, go to Tools > NuGet Package Manager > Manage NuGet Packages for Solution....
+Install Newtonsoft.Json:
+
+In the NuGet Package Manager, go to the Browse tab.
+Search for Newtonsoft.Json.
+Select the package and make sure you’re selecting the latest stable version.
+Choose your project from the list (if you have multiple projects in your solution).
+Click Install and accept any license agreements.
+Add the Namespace:
+
+After installation, add the following using directive at the top of your code file:
+using Newtonsoft.Json;
+
+Rebuild the Project:
+Once installed, rebuild your project by going to Build > Rebuild Solution.
